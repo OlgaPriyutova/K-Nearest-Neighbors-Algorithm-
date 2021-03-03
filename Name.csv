@@ -1,0 +1,29 @@
+Names
+  1. symboling:          
+  2. normalized-losses:  
+  3. make:               
+  4. fuel-type:          
+  5. aspiration:         
+  6. num-of-doors:       
+  7. body-style:         
+  8. drive-wheels:       
+  9. engine-location:    
+ 10. wheel-base:         
+ 11. length:             
+ 12. width:              
+ 13. height:             
+ 14. curb-weight:        
+ 15. engine-type:        
+ 16. num-of-cylinders:   
+ 17. engine-size:        
+ 18. fuel-system:        
+ 19. bore:               
+ 20. stroke:             
+ 21. compression-ratio:  
+ 22. horsepower:         
+ 23. peak-rpm:           
+ 24. city-mpg:           
+ 25. highway-mpg:        
+ 26. price
+]
+
